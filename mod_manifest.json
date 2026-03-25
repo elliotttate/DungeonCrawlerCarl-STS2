@@ -1,0 +1,11 @@
+{
+  "id": "dungeoncrawlercarl",
+  "pck_name": "dungeoncrawlercarl",
+  "name": "Dungeon Crawler Carl: Total Conversion",
+  "author": "CrawlerMods",
+  "description": "Total conversion mod: Dungeon Crawler Carl. Every card, relic, potion, and monster renamed with DCC themes. Includes Carl as a new playable character with the Ratings mechanic, 75+ custom cards, 22 relics, and 8 potions. Welcome, Crawler. The world is watching.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": true
+}
