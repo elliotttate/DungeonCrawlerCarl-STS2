@@ -1,7 +1,7 @@
 {
   "LIGHTNING_ORB.title": "Lightning Bolt",
   "LIGHTNING_ORB.description": "Passive: At the end of your turn, deal [blue]{passive}[/blue] damage to a random enemy.\nEvoke: Deal [blue]{evoke}[/blue] damage to a random enemy.",
-  "FROST_ORB.title": "Frosted Debuff",
+  "FROST_ORB.title": "Frost Shield",
   "FROST_ORB.description": "Passive: At the end of your turn, gain [blue]{passive}[/blue] [gold]Block[/gold].\nEvoke: Gain [blue]{evoke}[/blue] [gold]Block[/gold].",
   "DARK_ORB.title": "Soul Crystal",
   "DARK_ORB.description": "Passive: At the end of your turn, this orb gains [blue]{passive}[/blue] stored damage.\nEvoke: Deal stored damage to the lowest HP enemy.",
