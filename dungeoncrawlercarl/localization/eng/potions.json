@@ -1,211 +1,142 @@
 {
-  "ATTACK_POTION.title": "Crawler's Aggression Vial",
+  "ATTACK_POTION.title": "Iron Skin Potion",
   "ATTACK_POTION.description": "Add 1 random Attack card to your hand. It costs 0 this turn.",
-
-  "BLOCK_POTION.title": "Dungeon Shield Tonic",
+  "BLOCK_POTION.title": "Charm Animal Potion",
   "BLOCK_POTION.description": "Gain 12 Block.",
-
-  "BLOOD_POTION.title": "Blood Biscuit Broth",
+  "BLOOD_POTION.title": "Cosmic Buff Potion",
   "BLOOD_POTION.description": "Heal for 20% of your Max HP.",
-
-  "COLORLESS_POTION.title": "Sponsor's Mystery Sample",
+  "COLORLESS_POTION.title": "I Take It All Back Potion",
   "COLORLESS_POTION.description": "Add 1 random colorless card to your hand. It costs 0 this turn.",
-
-  "DEXTERITY_POTION.title": "Floor Agility Serum",
+  "DEXTERITY_POTION.title": "Potion of Somnolent Embrace",
   "DEXTERITY_POTION.description": "Gain 2 Dexterity.",
-
-  "ENERGY_POTION.title": "Stairwell Energy Shot",
+  "ENERGY_POTION.title": "Weapon Oil: Weeping Wound",
   "ENERGY_POTION.description": "Gain 2 Energy.",
-
-  "EXPLOSIVE_AMPOULE.title": "Explosive Loot Box Juice",
+  "EXPLOSIVE_AMPOULE.title": "Rev-Up Vitamin Shots",
   "EXPLOSIVE_AMPOULE.description": "Deal 20 damage to ALL enemies.",
-
-  "FIRE_POTION.title": "Floor Fire Flask",
+  "FIRE_POTION.title": "Heal Pet Potion",
   "FIRE_POTION.description": "Deal 20 damage to target enemy.",
-
-  "FLEX_POTION.title": "Crawler's Pump Potion",
+  "FLEX_POTION.title": "Pawna's Cries",
   "FLEX_POTION.description": "Gain 5 Strength. At end of turn, lose 5 Strength.",
-
-  "FOCUS_POTION.title": "AI Focus Serum",
+  "FOCUS_POTION.title": "Uncle Morty's Insta Lawn-Kill and Undead Repellant, Extra-Strength Edition",
   "FOCUS_POTION.description": "Gain 2 Focus.",
-
-  "POISON_POTION.title": "Dungeon Venom Vial",
+  "POISON_POTION.title": "Charm animal potion",
   "POISON_POTION.description": "Apply 6 Poison to target enemy.",
-
-  "POTION_OF_DOOM.title": "Potion of Dungeon Doom",
+  "POTION_OF_DOOM.title": "Superb constitution buff potion",
   "POTION_OF_DOOM.description": "Deal 40 damage to target enemy.",
-
-  "POWER_POTION.title": "Crawler's Empowerment Elixir",
+  "POWER_POTION.title": "Special brew potion",
   "POWER_POTION.description": "Add 1 random Power card to your hand. It costs 0 this turn.",
-
-  "SPEED_POTION.title": "Floor Sprint Syrup",
+  "SPEED_POTION.title": "Rev up immunity smoothie recipe",
   "SPEED_POTION.description": "Gain 5 Dexterity. At end of turn, lose 5 Dexterity.",
-
-  "STAR_POTION.title": "Ratings Boost Potion",
+  "STAR_POTION.title": "Potion Vial",
   "STAR_POTION.description": "Add 1 random card of any color to your hand. It costs 0 this turn.",
-
-  "STRENGTH_POTION.title": "Crawler's Might Tonic",
+  "STRENGTH_POTION.title": "Potion Supplies",
   "STRENGTH_POTION.description": "Gain 2 Strength.",
-
-  "SWIFT_POTION.title": "Quick Descender Draught",
+  "SWIFT_POTION.title": "Potions of mana restoration",
   "SWIFT_POTION.description": "Draw 3 cards.",
-
-  "VULNERABLE_POTION.title": "Dungeon Exposure Vial",
+  "VULNERABLE_POTION.title": "Potion Recipe from the Plenty",
   "VULNERABLE_POTION.description": "Apply 3 Vulnerable to target enemy.",
-
-  "WEAK_POTION.title": "Floor Sabotage Vial",
+  "WEAK_POTION.title": "Potion of Size Up",
   "WEAK_POTION.description": "Apply 3 Weak to target enemy.",
-
-  "ASHWATER.title": "Stairwell Ashwater",
+  "ASHWATER.title": "Good Mana Potion",
   "ASHWATER.description": "All enemies lose 7 HP.",
-
-  "BLESSING_OF_THE_FORGE.title": "Blessing of the Dungeon Forge",
+  "BLESSING_OF_THE_FORGE.title": "Cheat Code Potion",
   "BLESSING_OF_THE_FORGE.description": "Upgrade ALL cards in hand for this combat.",
-
-  "BONE_BREW.title": "Floor Mob Bone Brew",
+  "BONE_BREW.title": "Dolores Doesn't Splat Potion",
   "BONE_BREW.description": "Gain 2 Energy. Draw 2 cards.",
-
-  "CLARITY.title": "Crawler's Clarity",
+  "CLARITY.title": "Hair of the Dog Potion",
   "CLARITY.description": "Remove all debuffs.",
-
-  "CUNNING_POTION.title": "Mordecai's Cunning Potion",
+  "CUNNING_POTION.title": "Potion of Half Splat",
   "CUNNING_POTION.description": "Add 3 Shivs to your hand.",
-
-  "CURE_ALL.title": "Dungeon Cure-All",
+  "CURE_ALL.title": "Potion of Phase Through Wall",
   "CURE_ALL.description": "Heal 10 HP. Remove all debuffs.",
-
-  "DUPLICATOR.title": "Sponsor's Duplicator Drink",
+  "DUPLICATOR.title": "Hell-Kissed Potion of Conscription",
   "DUPLICATOR.description": "Duplicate your entire hand.",
-
-  "FORTIFIER.title": "Crawler's Fortifier",
+  "FORTIFIER.title": "Blitz Sticks",
   "FORTIFIER.description": "Gain 20 Block.",
-
-  "FYSH_OIL.title": "Floor Fysh Oil",
+  "FYSH_OIL.title": "Brin Root",
   "FYSH_OIL.description": "Add 2 random Powers to your hand. They cost 0 this turn.",
-
-  "GAMBLERS_BREW.title": "Gambler's Dungeon Brew",
+  "GAMBLERS_BREW.title": "Orchid of Eileithyia's Grace",
   "GAMBLERS_BREW.description": "Discard your hand. Draw that many cards.",
-
-  "HEART_OF_IRON.title": "Heart of the Iron Tangle",
+  "HEART_OF_IRON.title": "Mongo's Rage Serum",
   "HEART_OF_IRON.description": "Gain 6 Thorns for this combat.",
-
-  "KINGS_COURAGE.title": "Primus Courage Draft",
+  "KINGS_COURAGE.title": "Levitation Potion",
   "KINGS_COURAGE.description": "Gain 2 Artifact.",
-
-  "LIQUID_BRONZE.title": "Liquid Dungeon Bronze",
+  "LIQUID_BRONZE.title": "Legendary Skill Potion",
   "LIQUID_BRONZE.description": "Gain 3 Thorns for this combat.",
-
-  "POTION_OF_BINDING.title": "Potion of Mob Binding",
+  "POTION_OF_BINDING.title": "Alcohol Cure Potion",
   "POTION_OF_BINDING.description": "Target enemy loses 3 Strength.",
-
-  "POTION_OF_CAPACITY.title": "Potion of Floor Capacity",
+  "POTION_OF_CAPACITY.title": "Tracking Potion",
   "POTION_OF_CAPACITY.description": "Gain 2 Orb slots.",
-
-  "POWDERED_DEMISE.title": "Powdered Crawler Demise",
+  "POWDERED_DEMISE.title": "Splat Potion",
   "POWDERED_DEMISE.description": "Apply 10 Poison to target enemy.",
-
-  "RADIANT_TINCTURE.title": "Radiant Floor Tincture",
+  "RADIANT_TINCTURE.title": "Sober Potion",
   "RADIANT_TINCTURE.description": "Gain 3 Mantra.",
-
-  "REGEN_POTION.title": "Crawler's Regen Potion",
+  "REGEN_POTION.title": "Smoothie Container",
   "REGEN_POTION.description": "Gain 5 Regeneration.",
-
-  "STABLE_SERUM.title": "Stable Dungeon Serum",
+  "STABLE_SERUM.title": "Regular mana potion",
   "STABLE_SERUM.description": "Gain 2 Artifact. Gain 2 Focus.",
-
-  "TOUCH_OF_INSANITY.title": "Touch of Dungeon Madness",
+  "TOUCH_OF_INSANITY.title": "Potion of snapper out of it",
   "TOUCH_OF_INSANITY.description": "Add 5 random cards to your hand.",
-
-  "BEETLE_JUICE.title": "Floor Beetle Juice",
+  "BEETLE_JUICE.title": "Size-Up Potion",
   "BEETLE_JUICE.description": "Gain 2 Artifact. Gain 2 Strength.",
-
-  "BOTTLED_POTENTIAL.title": "Bottled Crawler Potential",
+  "BOTTLED_POTENTIAL.title": "Earth Hobby Potion",
   "BOTTLED_POTENTIAL.description": "Channel 2 random Orbs.",
-
-  "COSMIC_CONCOCTION.title": "Cosmic Dungeon Brew",
+  "COSMIC_CONCOCTION.title": "Major Charlie Potion",
   "COSMIC_CONCOCTION.description": "Channel 1 of every Orb type.",
-
-  "DISTILLED_CHAOS.title": "Distilled Dungeon Chaos",
+  "DISTILLED_CHAOS.title": "Rapid Detox Potion",
   "DISTILLED_CHAOS.description": "Play the top 3 cards of your draw pile.",
-
-  "DROPLET_OF_PRECOGNITION.title": "Droplet of Crawler Foresight",
+  "DROPLET_OF_PRECOGNITION.title": "Hell-Kissed Celestial Skill Potion of the Prince of Woe",
   "DROPLET_OF_PRECOGNITION.description": "Scry 5. Gain 1 Block for each card moved to bottom.",
-
-  "ENTROPIC_BREW.title": "Entropic Dungeon Brew",
+  "ENTROPIC_BREW.title": "Rev-Up Immunity Smoothie",
   "ENTROPIC_BREW.description": "Fill all empty potion slots with random potions.",
-
-  "ESSENCE_OF_DARKNESS.title": "Essence of the Deep Floors",
+  "ESSENCE_OF_DARKNESS.title": "Rev-Up Magic Hair Restoration Tonic",
   "ESSENCE_OF_DARKNESS.description": "Channel 1 Dark for each Orb slot.",
-
-  "FAIRY_IN_A_BOTTLE.title": "Wisp in a Bottle",
+  "FAIRY_IN_A_BOTTLE.title": "Poison Antidote",
   "FAIRY_IN_A_BOTTLE.description": "When you would die, heal to 30% of Max HP instead.",
-
-  "FRUIT_JUICE.title": "Dungeon Fruit Juice",
+  "FRUIT_JUICE.title": "Travis Priest",
   "FRUIT_JUICE.description": "Gain 5 Max HP.",
-
-  "GHOST_IN_A_JAR.title": "Ghost Mob in a Jar",
+  "GHOST_IN_A_JAR.title": "Enchanted Cherry-Flavored Toothpaste",
   "GHOST_IN_A_JAR.description": "Gain 1 Intangible.",
-
-  "GIGANTIFICATION_POTION.title": "Mongo-Size Potion",
+  "GIGANTIFICATION_POTION.title": "Good Rest Buff",
   "GIGANTIFICATION_POTION.description": "Gain 5 Strength. At end of turn, lose 2 Strength.",
-
-  "LIQUID_MEMORIES.title": "Liquid Floor Memories",
+  "LIQUID_MEMORIES.title": "Juiced",
   "LIQUID_MEMORIES.description": "Choose a card from your discard pile. Add it to your hand. It costs 0 this turn.",
-
-  "LUCKY_TONIC.title": "Lucky Crawler Tonic",
+  "LUCKY_TONIC.title": "Invisibility Potion",
   "LUCKY_TONIC.description": "Gain 3 Block. Draw 3 cards. Gain 1 Energy.",
-
-  "MAZALETHS_GIFT.title": "Dungeon Master's Gift",
+  "MAZALETHS_GIFT.title": "Hobby Potion",
   "MAZALETHS_GIFT.description": "Gain 2 of each: Strength, Dexterity, Focus.",
-
-  "OROBIC_ACID.title": "Dungeon Floor Acid",
+  "OROBIC_ACID.title": "Double Healing Potion",
   "OROBIC_ACID.description": "Remove ALL Block from target enemy. Apply 3 Vulnerable.",
-
-  "POT_OF_GHOULS.title": "Pot of Dungeon Ghouls",
+  "POT_OF_GHOULS.title": "Strawberry juice",
   "POT_OF_GHOULS.description": "Gain 3 Intangible.",
-
-  "SHACKLING_POTION.title": "Mob Shackling Potion",
+  "SHACKLING_POTION.title": "Sleep Potion",
   "SHACKLING_POTION.description": "Target enemy loses 5 Strength.",
-
-  "SHIP_IN_A_BOTTLE.title": "Borough in a Bottle",
+  "SHIP_IN_A_BOTTLE.title": "Sleeping Potion",
   "SHIP_IN_A_BOTTLE.description": "Add 3 Miracles to your hand.",
-
-  "SNECKO_OIL.title": "Snecko Oil",
+  "SNECKO_OIL.title": "Shield potion",
   "SNECKO_OIL.description": "Draw 5 cards. Randomize their costs.",
-
-  "SOLDIERS_STEW.title": "Crawler's Campaign Stew",
+  "SOLDIERS_STEW.title": "Rev Up Smoothies Invigorating Banner",
   "SOLDIERS_STEW.description": "Heal 30 HP.",
-
-  "FOUL_POTION.title": "Foul Dungeon Potion",
+  "FOUL_POTION.title": "Bandages",
   "FOUL_POTION.description": "Gain 1 Curse.",
-
-  "GLOWWATER_POTION.title": "Glowwater Floor Potion",
+  "GLOWWATER_POTION.title": "Skull Juice",
   "GLOWWATER_POTION.description": "Gain 2 Energy. Gain 2 Focus.",
-
-  "POTION_SHAPED_ROCK.title": "Potion-Shaped Dungeon Rock",
+  "POTION_SHAPED_ROCK.title": "Strawberry juice potion",
   "POTION_SHAPED_ROCK.description": "This does nothing. It's a rock.",
-
-  "SKULL_JUICE.title": "Skull Juice",
+  "SKULL_JUICE.title": "Size-up potion",
   "SKULL_JUICE.description": "Gain 2 Energy. Lose 5 HP.",
-
-  "CRAWLER_BISCUIT_POTION.title": "Crawler Biscuit",
+  "CRAWLER_BISCUIT_POTION.title": "Potion of Dinosaur Repellent",
   "CRAWLER_BISCUIT_POTION.description": "Heal 15 HP.",
-
-  "FLOOR_WAX.title": "Floor Wax",
+  "FLOOR_WAX.title": "Pawna's Tears",
   "FLOOR_WAX.description": "Gain 15 Block.",
-
-  "AUDIENCE_APPLAUSE.title": "Audience Applause",
+  "AUDIENCE_APPLAUSE.title": "Level-Up Potion",
   "AUDIENCE_APPLAUSE.description": "Gain 3 Ratings.",
-
-  "DONUTS_KIBBLE.title": "Donut's Kibble",
+  "DONUTS_KIBBLE.title": "Superb Constitution Buff Potion",
   "DONUTS_KIBBLE.description": "Donut-tagged cards deal double this turn.",
-
-  "STAIRWELL_POTION.title": "Stairwell Potion",
+  "STAIRWELL_POTION.title": "Protection Potion",
   "STAIRWELL_POTION.description": "Draw 5 cards.",
-
-  "MONGOS_RAGE_SERUM.title": "Mongo's Rage Serum",
+  "MONGOS_RAGE_SERUM.title": "Earth hobby potion",
   "MONGOS_RAGE_SERUM.description": "Gain 5 Strength for combat.",
-
-  "EMERGENCY_BROADCAST_FLASK.title": "Emergency Broadcast Flask",
+  "EMERGENCY_BROADCAST_FLASK.title": "Liquid Therapy",
   "EMERGENCY_BROADCAST_FLASK.description": "Play top 5 cards for free."
 }

@@ -1,10 +1,10 @@
 {
-  "LIGHTNING_ORB.title": "Broadcast Lightning",
+  "LIGHTNING_ORB.title": "Lightning Bolt",
   "LIGHTNING_ORB.description": "Passive: At the end of your turn, deal [blue]{passive}[/blue] damage to a random enemy.\nEvoke: Deal [blue]{evoke}[/blue] damage to a random enemy.",
-  "FROST_ORB.title": "Cryo Pod",
+  "FROST_ORB.title": "Frosted Debuff",
   "FROST_ORB.description": "Passive: At the end of your turn, gain [blue]{passive}[/blue] [gold]Block[/gold].\nEvoke: Gain [blue]{evoke}[/blue] [gold]Block[/gold].",
-  "DARK_ORB.title": "Dark Data",
+  "DARK_ORB.title": "Soul Crystal",
   "DARK_ORB.description": "Passive: At the end of your turn, this orb gains [blue]{passive}[/blue] stored damage.\nEvoke: Deal stored damage to the lowest HP enemy.",
-  "PLASMA_ORB.title": "Ratings Orb",
+  "PLASMA_ORB.title": "Primal Engine",
   "PLASMA_ORB.description": "Passive: At the end of your turn, gain [blue]{passive}[/blue] Energy.\nEvoke: Gain [blue]{evoke}[/blue] Energy."
 }
